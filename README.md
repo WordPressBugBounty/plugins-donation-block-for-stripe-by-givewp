@@ -1,0 +1,1 @@
+# plugins-donation-block-for-stripe-by-givewp
